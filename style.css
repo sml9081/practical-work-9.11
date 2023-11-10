@@ -1,0 +1,24 @@
+.card-title {
+    color:rgb(196, 196, 35);
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+  }
+
+  .card-header {
+    color:#010101;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+  }
+
+  .card-body {
+    color:#ffffff;
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background: #5c5757; 
+    border: 5px double black;
+  } 
+  
+

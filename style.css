@@ -21,4 +21,11 @@
     border: 5px double black;
   } 
   
-
+ 
+  .btn-custom {
+    background-color:rgb(196, 196, 35) ;
+    border-color: #171616;
+    border: 1px double black;
+    font-size: 24px;
+    color: #111111; 
+  }
